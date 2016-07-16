@@ -49,4 +49,5 @@ see http://jdde.pretty-tools.com/downloads.php for more details.
 ## AUTHORS
 
 Alexander Kozlov (alex@pretty-tools.com)
+
 Svetlozar Argirov (zarrro@gmail.com)
