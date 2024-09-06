@@ -21,4 +21,11 @@
 		  </plugins>
     </build>
 
-</project>
+    <distributionManagement>
+      <repository>
+        <id>github</id>
+        <name>GitHub Packages</name>
+        <url>https://maven.pkg.github.com/zaro/jdde-bundle</url>
+      </repository>
+    </distributionManagement>
+  </project>
